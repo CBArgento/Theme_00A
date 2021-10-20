@@ -136,6 +136,7 @@ p {
 #icons {
     text-align: center;
     color: indigo;
+    size: 5px;
 }
 
 #imgicons {
@@ -189,6 +190,12 @@ p {
     text-align: center;
 }
 
+.icon1 {
+  height: 95px;
+  width: 95px;
+  text-align: center;
+  font-size: 1px;
+  }
 
 /*Testimonials Style*/
 .heading {
