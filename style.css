@@ -190,12 +190,15 @@ p {
     text-align: center;
 }
 
-.icon1 {
+#icon1 {
   height: 95px;
   width: 95px;
   text-align: center;
-  font-size: 1px;
   }
+
+.imgicon {
+
+}
 
 /*Testimonials Style*/
 .heading {
